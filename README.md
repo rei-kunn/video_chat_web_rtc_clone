@@ -4,9 +4,9 @@
 ##How to run this project
 ---
 1. in the project path, run below command in the terminal (if it is Mac)
-`nodemon index.js`
+>nodemon index.js
 
 2. Open another terminal, go to the client folder and run below cmd.
-`npm start@
+>npm start
 
 As simple as that...
